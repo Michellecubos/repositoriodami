@@ -1,1 +1,2 @@
-# repositoriodami
+console.log("olá, mundo");
+
