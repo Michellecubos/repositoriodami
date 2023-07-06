@@ -1,2 +1,2 @@
 Olámundo.js
-console.log("Olá, mundo");
+console.log("Olá, mundo!");
